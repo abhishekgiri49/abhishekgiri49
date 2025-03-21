@@ -1,5 +1,23 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>PHP, Next.js, and Vue.js projects<br><br>Scalable and high-performance web applications<br><br>👯 I’m looking to collaborate on<br><br>Full Stack Development projects<br><br>Open-source contributions<br><br>🤝 I’m looking for help with<br><br>Advanced Next.js optimizations<br><br>Performance tuning for large-scale applications<br><br>🌱 I’m currently learning<br><br>Advanced TypeScript and Node.js<br><br>Cloud services like AWS and Google Cloud<br><br>💬 Ask me about<br><br>Laravel, Vue.js, and React.js<br><br>RESTful APIs and database optimization<br><br>Best practices in full-stack development<br><br>⚡ Fun fact<br><br>I love solving coding challenges and exploring new tech stacks!
+
+🔭 I’m currently working on
+--PHP, Next.js, and Vue.js projects
+Scalable and high-performance web applications
+👯 I’m looking to collaborate on
+Full Stack Development projects
+Open-source contributions
+🤝 I’m looking for help with
+Advanced Next.js optimizations
+Performance tuning for large-scale applications
+🌱 I’m currently learning
+Advanced TypeScript and Node.js
+Cloud services like AWS and Google Cloud
+💬 Ask me about
+Laravel, Vue.js, and React.js
+-RESTful APIs and database optimization
+-Best practices in full-stack development
+⚡ Fun fact
+-I love solving coding challenges and exploring new tech stacks!
 
 
 ## 🌐 Socials:
