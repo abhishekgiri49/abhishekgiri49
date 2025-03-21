@@ -1,22 +1,22 @@
 # 💫 About Me:
 
-🔭 I’m currently working on
+🔭 I’m currently working on<br/>
 PHP, Next.js, and Vue.js projects
 Scalable and high-performance web applications<br/>
 👯 I’m looking to collaborate on
 Full Stack Development projects
 Open-source contributions<br/>
-🤝 I’m looking for help with
+🤝 I’m looking for help with<br/>
 Advanced Next.js optimizations
 Performance tuning for large-scale applications<br/>
-🌱 I’m currently learning
+🌱 I’m currently learning<br/>
 Advanced TypeScript and Node.js
 Cloud services like AWS and Google Cloud<br/>
-💬 Ask me about
+💬 Ask me about<br/>
 Laravel, Vue.js, and React.js
 -RESTful APIs and database optimization
 -Best practices in full-stack development<br/>
-⚡ Fun fact
+⚡ Fun fact<br/>
 -I love solving coding challenges and exploring new tech stacks!
 
 
