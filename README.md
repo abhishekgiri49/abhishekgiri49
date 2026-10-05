@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🔭 I’m currently working on<br/>
-PHP, Next.js, and Vue.js projects
+PHP,Node, React, Next.js, and Vue.js projects
 Scalable and high-performance web applications<br/>
 👯 I’m looking to collaborate on
 Full Stack Development projects
